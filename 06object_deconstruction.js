@@ -6,7 +6,7 @@ const user = {
 }
 
 // must use same variable names for mapping
-const renderUser = ({ name, email}) => {
+const renderUser = ({ name, email }) => {
   console.log(`${name}: ${email}`);
 }
 
